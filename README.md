@@ -3,3 +3,5 @@
 ---
 - 순위 : 19 / 83 (89.25)
 
+
+https://www.kaggle.com/y1346321/keras-model
