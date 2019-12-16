@@ -1,7 +1,7 @@
 # programmers 2019 ML on-line Job Fair
 
 ---
-- 순위 : 22 / 103 (89.25)
-- 
+- 공개 순위 : 22 / 103 (89.25)
+- final 순위 : 36 / 103 (88.3)
 
 https://www.kaggle.com/y1346321/keras-model
