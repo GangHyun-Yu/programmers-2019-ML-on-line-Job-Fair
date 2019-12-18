@@ -10,4 +10,4 @@ https://programmers.co.kr/competitions/116/machinelearning-2019
   - 37 / 103 (88.30)
 
 - notebook
-  - https://www.kaggle.com/y1346321/keras-model
+  - https://www.kaggle.com/y1346321/efficientnet-model
