@@ -6,4 +6,5 @@
 2 final score
   - 37 / 103 (88.30)
 
+
 - notebook : https://www.kaggle.com/y1346321/efficientnet-model
